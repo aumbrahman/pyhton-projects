@@ -1,2 +1,2 @@
 # pyhton-projects
-pyhton saap nhi hota
+sharing python projects related to scripting, vlsi
