@@ -1,0 +1,43 @@
+$date
+	Thu Jun 18 12:00:20 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_half_adder $end
+$var wire 1 ! Sum $end
+$var wire 1 " Carry $end
+$var reg 1 # A $end
+$var reg 1 $ B $end
+$scope module uut $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 " carry $end
+$var wire 1 ! sum $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0$
+0#
+0"
+0!
+$end
+#10000
+1!
+1$
+#20000
+0$
+1#
+#30000
+0!
+1"
+1$
+#40000
